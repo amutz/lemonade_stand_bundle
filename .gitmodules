@@ -1,3 +1,6 @@
 [submodule "lemonade_stand"]
 	path = lemonade_stand
 	url = git@github.com:amutz/lemonade_stand.git
+[submodule "lemonade_stand_api"]
+	path = lemonade_stand_api
+	url = git@github.com:amutz/lemonade_stand_api.git
