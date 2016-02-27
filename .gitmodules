@@ -1,0 +1,3 @@
+[submodule "lemonade_stand"]
+	path = lemonade_stand
+	url = git@github.com:amutz/lemonade_stand.git
